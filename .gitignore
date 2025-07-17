@@ -1,0 +1,5 @@
+説明書
+*.log
+*.png
+ライブラリやpyinstaller系
+__pycache__
